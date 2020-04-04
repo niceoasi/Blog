@@ -1,0 +1,9 @@
+name: Yun
+bio: |
+  Hello~!
+avatar: ./avatars/dennis-brotzky.jpg
+social:
+  - url: https://unsplash.com
+  - url: https://stackoverflow.com
+  - url: https://github.com/niceoasi
+featured: true
